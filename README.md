@@ -1,5 +1,8 @@
 # hello-world
 Just another repository
 
-Já estás a fazer mal os tutorials
+
+Hi humans!
+
+Hubot here, I like Node.js... wharever he's saying.
 
